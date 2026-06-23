@@ -1,17 +1,10 @@
 <!DOCTYPE html>
-<html>
-<head>
-</head>
-<title>work03 html styles</title>
-<body style="background-color:#CCFFFF">
-<h1 style="color:blue;font-family:Forte Regular;font-size:350%; text-align:center;">
-Lorem Ipsum
-</h1>
-<p>
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
-</p>
-<p style="text-align:right;">ขวัญฤดี  ตุ้มเปาะ ชั้นม.6/10 เลขที่36
-</p>
-</body>
+<html lang="th'>
+  <head>
+   <meta charset="utf-8"
+   <title>ยินดีต้อนรับฒะระสำฬ
+  </head>
+  <body>
+    <h1style="color:pink; font-size:300%;">ยินดีต้อนรับเข้าสู่เว็บไซด์ของเนย เพชรณิชา ดาทุมมา ชั้น ม.6/10 เลขที่ 31</h1>
+  </body>
 </html>
